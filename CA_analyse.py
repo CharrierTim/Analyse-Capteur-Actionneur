@@ -36,6 +36,7 @@ plt.plot(X_10_20, Y_10_20, 'o', label='Données originales entre 10-20%', marker
 plt.plot(X, Y2, 'g', label='Regression lineaire sur 10-20% sur les données entre 10-20%')
 plt.legend()
 plt.show()
+plt.savefig('CA_analyse.png')
 
 # Error between Y1 and Y2 on X_10_20 in percentage
 error = np.abs((Y1[10:20] - Y2[10:20]) / Y1[10:20]) * 100
@@ -56,3 +57,4 @@ plt.plot(X_real, Y_real, 'o', label='Données originales entre 0-100%', markersi
 plt.plot(X, Y, 'r', label='Regression polynomiale sur les données entre 0-100%')
 plt.legend()
 plt.show()
+plt.savefig('CA_non_linear_analyse.png')
