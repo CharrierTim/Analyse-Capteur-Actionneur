@@ -10,6 +10,12 @@ Date : 29/01/2023
   title="Régression linéaire"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
+  L'équation de la droite de régression linéaire est : \ 
+
+    \begin{equation}
+    0.0381x - 0.586
+    \end{equation}
+
 # Affichage des résultats de la régréssion polynomiale
 
 <img
@@ -17,3 +23,10 @@ Date : 29/01/2023
   alt="Alt text"
   title="Régression polynomiale"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+    L'équation de la droite de régression polynomiale est : \ 
+    
+        \begin{equation}
+        -3.129.10^{-6}x^{3} + 0.0005934x^{2} - 0.004297x - 0.04603
+        \end{equation}
+
