@@ -53,8 +53,10 @@ print(f)
 X = np.linspace(0, 100, 100)
 Y = f(X)
 
+# Clear the plot
+plt.clf()
 plt.plot(X_real, Y_real, 'o', label='Données originales entre 0-100%', markersize=10)
 plt.plot(X, Y, 'r', label='Regression polynomiale sur les données entre 0-100%')
 plt.legend()
 plt.show()
-plt.savefig('CA_non_linear_analyse.png')
+plt.savefig('CA_polynomial_analyse.png')
