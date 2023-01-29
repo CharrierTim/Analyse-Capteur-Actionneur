@@ -13,9 +13,9 @@ Date : 29/01/2023
 L'équation de la droite de régression linéaire est :
 
 ```math
-    \begin{equation}
-    y = 0.0381x - 0.586
-    \end{equation}
+\begin{equation}
+y = 0.0381x - 0.586
+\end{equation}
 ```
 
 # Affichage des résultats de la régréssion polynomiale
@@ -28,8 +28,8 @@ L'équation de la droite de régression linéaire est :
 
 L'équation de la droite de régression polynomiale est :
 ```math
-    \begin{equation}
-    y = -3.129.10^{-6}x^{3} + 0.0005934x^{2} - 0.004297x - 0.04603
-    \end{equation}
+\begin{equation}
+y = -3.129.10^{-6}x^{3} + 0.0005934x^{2} - 0.004297x - 0.04603
+\end{equation}
 ```
 
