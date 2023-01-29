@@ -17,3 +17,4 @@ Date : 29/01/2023
   alt="Alt text"
   title="Régression polynomiale"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
