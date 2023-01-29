@@ -4,8 +4,8 @@
 --- ---
 # Affichage des résultats de la régréssion linéaire
 
-![alt text](https://github.com/CharrierTim/Analyse-Capteur-Actionneur/main/CA_analyse.png?raw=true)
+![alt text](https://github.com/CharrierTim/Analyse-Capteur-Actionneur/CA_analyse.png?raw=true)
 
 # Affichage des résultats de la régréssion polynomiale
 
-![alt text](https://github.com/CharrierTim/Analyse-Capteur-Actionneur/main/CA_analyse_poly.png?raw=true)
+![alt text](https://github.com/CharrierTim/Analyse-Capteur-Actionneur/CA_analyse_poly.png?raw=true)
