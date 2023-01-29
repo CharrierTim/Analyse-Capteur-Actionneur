@@ -14,7 +14,7 @@ L'équation de la droite de régression linéaire est :
 
 ```math
     \begin{equation}
-    0.0381x - 0.586
+    y = 0.0381x - 0.586
     \end{equation}
 ```
 
@@ -29,7 +29,7 @@ L'équation de la droite de régression linéaire est :
 L'équation de la droite de régression polynomiale est :
 ```math
     \begin{equation}
-    -3.129.10^{-6}x^{3} + 0.0005934x^{2} - 0.004297x - 0.04603
+    y = -3.129.10^{-6}x^{3} + 0.0005934x^{2} - 0.004297x - 0.04603
     \end{equation}
 ```
 
