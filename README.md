@@ -24,10 +24,10 @@ Date : 29/01/2023
   title="Régression polynomiale"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-    L'équation de la droite de régression polynomiale est : \ 
-    ```math
-        \begin{equation}
-        -3.129.10^{-6}x^{3} + 0.0005934x^{2} - 0.004297x - 0.04603
-        \end{equation}
-    ```
+L'équation de la droite de régression polynomiale est : \ 
+```math
+    \begin{equation}
+    -3.129.10^{-6}x^{3} + 0.0005934x^{2} - 0.004297x - 0.04603
+    \end{equation}
+```
 
