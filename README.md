@@ -1,6 +1,6 @@
 # Analyse du projet Capteur et Actionneur
-## Auteur: Timothée Charrier et Alexis Bechet
-## Date: 29/01/2023
+Auteurs : Timothée Charrier et Alexis Bechet
+Date : 29/01/2023
 --- ---
 # Affichage des résultats de la régréssion linéaire
 
